@@ -4,7 +4,7 @@ http -  hyper text transform protocol.
 
 HTTP используеться как траспорт для передачи данных через  TCP/IP соедениение, обычночного через TCP порта 80.
 Спецыфикация  1.1 не ограничевает количества разных методов которые могут быть использованы. Однако в основном используються 
-GET POST PUSH DELETE PATCH PUT 
+1 GET 2 POST 3 PUSH 4 DELETE 5 PATCH 6 PUT 
 
 
-URI - Uniform Resource Idetifier
+URI - Uniform Resource Idetifier 
